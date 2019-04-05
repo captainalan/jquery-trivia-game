@@ -1,0 +1,9 @@
+#game_space {
+    color: lime;
+    background: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#timer_space {
+    background: #CCC;
+}
